@@ -40,8 +40,8 @@ You can simply open `index.html` in any modern web browser to view the applicati
 
 The image for this application has been successfully built and pushed to DockerHub. 
 
-* **DockerID**: `(Provide your DockerID here)`
-* **Pull Command**: `docker pull your_dockerhub_username/taskmaster-app:v1`
+* **DockerID**: `bintusagir`
+* **Pull Command**: `docker pull bintusagir/taskmaster-app:v1`
 
 ## GitHub Repository
 All source code files have been added to this project repository and it is accessible to the public.
